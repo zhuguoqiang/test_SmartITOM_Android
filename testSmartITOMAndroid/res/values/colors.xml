@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="index_bg">#4F4F4F</color>
+    <color name="main_title_bg">#46A3FF</color>
+    <color name="app_background">#FFFFFF</color>
+    <color name="gridview_bgcolor">#F0F0F0</color>
+    
+    <color name="deep_blue">#000079</color>
+    <color name="white">#FCFCFCFF</color>
+    <color name="dark">#3C3C3C</color>
+    
+    <color name="transparent">#0000</color> 
+
+</resources>

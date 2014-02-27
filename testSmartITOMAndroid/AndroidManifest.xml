@@ -14,13 +14,37 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="com.example.testsmartitomandroid.MainActivity"
+            android:name="com.example.testsmartitomandroid.Start"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.testsmartitomandroid.ui.Main"
+            android:label="@string/title_activity_main" >
+        </activity>
+        <activity
+            android:name="com.example.testsmartitomandroid.ui.Login"
+            android:label="@string/title_activity_login" >
+        </activity>
+        <activity
+            android:name="com.example.testsmartitomandroid.ui.Nav"
+            android:label="@string/title_activity_nav" >
+        </activity>
+        <activity
+            android:name="com.example.testsmartitomandroid.ui.MyAttetion"
+            android:label="@string/title_activity_my_attetion" >
+        </activity>
+        <activity
+            android:name="com.example.testsmartitomandroid.ui.ToolsBox"
+            android:label="@string/title_activity_tools_box" >
+        </activity>
+        <activity
+            android:name="com.example.testsmartitomandroid.ui.Setting"
+            android:label="@string/title_activity_setting" >
         </activity>
     </application>
 
